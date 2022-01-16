@@ -1,5 +1,7 @@
 ### Hi there 👋
+Hello World!
 
+🎓 I'm currently studying at FPT University 🎓
 <!--
 **minhbebong/minhbebong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
